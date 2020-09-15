@@ -38,7 +38,7 @@ python test.py  --content_dir input/content/ --style_dir input/style/    --outpu
 Traing set is WikiArt collected from [WIKIART](https://www.wikiart.org/)  <br>  
 Testing set is COCO2014  <br>  
 ```
-python train.py --style_dir ../../datasets/Images/ --content_dir ../../datasets/train2014 --save_dir models/ --batch_size 8
+python train.py --style_dir ../../datasets/Images/ --content_dir ../../datasets/train2014 --save_dir models/ --batch_size 4
 ```
 ### Reference
 If you use our work in your research, please cite us using the following BibTeX entry ~ Thank you ^ . ^. Paper Link [pdf](https://arxiv.org/abs/2005.13219)<br> 
