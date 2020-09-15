@@ -1,9 +1,9 @@
 # Arbitrary-Style-Transfer-via-Multi-Adaptation-Network
-##Requirements
-*python 3.6
-*pytorch 1.4.0
-*PIL, numpy, scipy
-*tqdm
+## Requirements
+* python 3.6
+* pytorch 1.4.0
+* PIL, numpy, scipy
+* tqdm
 Pretrained models: [vgg-model](https://drive.google.com/file/d/1kUUNROxNmDroDuWl22JDlbN3vJBNYFZy/view?usp=sharing),  [decoder](https://drive.google.com/file/d/1BinnwM5AmIcVubr16tPTqxMjUCE8iu5M/view?usp=sharing),  [MA_module](x)   <br> 
  
 --TEST <br>  
