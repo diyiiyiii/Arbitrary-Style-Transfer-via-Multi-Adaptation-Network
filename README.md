@@ -3,11 +3,9 @@ Yingying Deng, Fan Tang, Weiming Dong, Wen Sun, Feiyue Huang, Changsheng Xu  <br
 
 ## results presentation 
 <p align="center">
-<img src="https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/results1.png" width="30%" height="30%">
+<img src="https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/results1.png" width="50%" height="50%">
 </p>
-Stylized result using Claude Monet's painting as style reference.
-
-Compared with some state-of-the-art algorithms, our result can preserve detailed content structures and maintain vivid style patterns.  <br>
+Stylized result using Claude Monet's painting as style reference. Compared with some state-of-the-art algorithms, our result can preserve detailed content structures and maintain vivid style patterns.  <br>
 
 
 ## Framework
@@ -15,6 +13,8 @@ Compared with some state-of-the-art algorithms, our result can preserve detailed
 <img src="https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/framework1.png" width="80%" height="80%">
 </p> 
 System overview. For the purpose of arbitrary style transfer, we propose a feed-forward network, which contains an encoder-decoder architecture and a multi-adaptation module.
+
+
 <p align="center">
 <img src="https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/SACA1.png" width="80%" height="80%">
 </p> 
