@@ -2,7 +2,7 @@
 Yingying Deng, Fan Tang, Weiming Dong, Wen Sun, Feiyue Huang, Changsheng Xu  <br>
 Paper Link [pdf](https://arxiv.org/abs/2005.13219)
 ## results presentation 
-![image](https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/result.png)
+![image](https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/results.png)
 ## Framework
 ![image](https://github.com/diyiiyiii/Arbitrary-Style-Transfer-via-Multi-Adaptation-Network/blob/master/framework/framework.png)
 
