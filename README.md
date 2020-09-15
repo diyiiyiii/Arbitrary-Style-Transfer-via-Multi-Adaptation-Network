@@ -10,9 +10,9 @@ Yingying Deng, Fan Tang, Weiming Dong, Wen Sun, Feiyue Huang, Changsheng Xu
 ## TEST 
 Pretrained models: [vgg-model](https://drive.google.com/file/d/1kUUNROxNmDroDuWl22JDlbN3vJBNYFZy/view?usp=sharing),  [decoder](https://drive.google.com/file/d/1BinnwM5AmIcVubr16tPTqxMjUCE8iu5M/view?usp=sharing),  [MA_module](x)   <br> 
  
-` `` 
+`
 python test.py  --content_dir input/content/ --style_dir input/style/    --output out
-` `` 
+`
 ## TRAIN  
 Traing set is WikiArt collected from https://www.wikiart.org/  <br>  
 Test set is COCO2014  <br>  
