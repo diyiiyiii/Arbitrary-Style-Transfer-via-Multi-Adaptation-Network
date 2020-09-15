@@ -20,12 +20,12 @@ Test set is COCO2014  <br>
 python train.py --style_dir ../../datasets/Images/ --content_dir ../../datasets/train2014 --save_dir models/ --batch_size 8
 `
 ## Reference
-If you use our work in your research, please cite us using the following BibTeX entry.
+If you use our work in your research, please cite us using the following BibTeX entry. <br> 
 `
-@article{deng2020arbitrary,
-  title={Arbitrary Style Transfer via Multi-Adaptation Network},
-  author={Deng, Yingying and Tang, Fan and Dong, Weiming and Sun, Wen and Huang, Feiyue and Xu, Changsheng},
-  journal={arXiv preprint arXiv:2005.13219},
-  year={2020}
+@article{deng2020arbitrary, <br> 
+  title={Arbitrary Style Transfer via Multi-Adaptation Network}, <br> 
+  author={Deng, Yingying and Tang, Fan and Dong, Weiming and Sun, Wen and Huang, Feiyue and Xu, Changsheng}, <br> 
+  journal={arXiv preprint arXiv:2005.13219}, <br> 
+  year={2020} <br> 
 }
 `
