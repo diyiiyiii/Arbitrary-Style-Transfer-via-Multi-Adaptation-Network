@@ -19,3 +19,5 @@ Test set is COCO2014  <br>
 `
 python train.py --style_dir ../../datasets/Images/ --content_dir ../../datasets/train2014 --save_dir models/ --batch_size 8
 `
+## Reference
+If you use our work in your research, please cite us using the following BibTeX entry.
