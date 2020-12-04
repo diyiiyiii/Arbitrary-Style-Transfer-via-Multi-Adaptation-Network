@@ -29,7 +29,7 @@ The multi-adaptation module is divided into three parts: position-wise content S
 * tqdm  <br> 
 
 ### Testing 
-Pretrained models: [vgg-model](https://drive.google.com/file/d/1kUUNROxNmDroDuWl22JDlbN3vJBNYFZy/view?usp=sharing),  [decoder](https://drive.google.com/file/d/1BinnwM5AmIcVubr16tPTqxMjUCE8iu5M/view?usp=sharing),  [MA_module](https://drive.google.com/file/d/1C7Tx5C9YA-7fyLDAs-jmoAdOX32e1aEW/view?usp=sharing)   <br> 
+Pretrained models: [vgg-model](https://drive.google.com/file/d/1kUUNROxNmDroDuWl22JDlbN3vJBNYFZy/view?usp=sharing),  [decoder, MA_module](https://drive.google.com/file/d/1JaFfo6VB5NG0y69YfmB6WWjODQNdymWt/view?usp=sharing)   <br> 
 Please download them and put them into the floder  ./model/  <br> 
 ```
 python test.py  --content_dir input/content/ --style_dir input/style/    --output out
