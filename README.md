@@ -45,7 +45,7 @@ If you use our work in your research, please cite us using the following BibTeX 
 ```
 @inproceedings{deng:2020:arbitrary,
   title={Arbitrary Style Transfer via Multi-Adaptation Network},
-  author={Deng, Yingying and Tang, Fan and Dong, Weiming and Sun, Wen and Huang, Feiyue and Xu, Changsheng},
+  author={Deng, Yingying and Tang, Fan and Dong, Weiming and Huang, Feiyue and Xu, Changsheng},
   booktitle={Acm International Conference on Multimedia},
   year={2020},
  publisher = {ACM},
